@@ -1,3 +1,3 @@
 # hello-world
 First repository
-These are changes in branches to be merged with master
+These are changes in branch to be merged with master
